@@ -5,11 +5,14 @@
 
 <div align="center">
   <a href="https://envyh.github.io/avatar-site/">
-    <img src="https://img.shields.io/static/v1?label=Avatar 258&message=Website&color=blue&logo=" />
+    <img src="https://img.shields.io/static/v1?label=Avatar 258&message=Website&color=blue" />
   </a>
   <a href="https://github.com/envyH/avatar-site/releases/tag/v.2.5.8">
-    <img src="https://img.shields.io/static/v1?label=Release&message=v2.5.8&color=green&logo=" />
+    <img src="https://img.shields.io/static/v1?label=Release&message=v2.5.8&color=green" />
   </a>
+
+  <br clear="both">
+
   <img src="https://github-readme-stats.vercel.app/api?username=envyH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=envyH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
