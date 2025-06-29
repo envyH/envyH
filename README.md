@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <a href="https://envyh.github.io/avatar-site/">
+  <a href="https://envyh.github.io/avatar-site">
     <img src="https://img.shields.io/static/v1?label=Avatar 258&message=Website&color=blue" />
   </a>
   <a href="https://github.com/envyH/avatar-site/releases/tag/v.2.5.8">
