@@ -29,6 +29,8 @@
 
 <div align="left">
 
+### Language
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="golang logo"  />
@@ -42,6 +44,8 @@
 
 <div align="left">
 
+### Contact
+
 <a href="https://t.me/vungtc"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=3390EC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 <a href="https://linkedin.com/in/vung-envy-nguyen"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
@@ -49,6 +53,8 @@
 
 
 <picture>
+
+### Contributions
 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/envyH/envyH/output/pacman-contribution-graph-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/envyH/envyH/output/pacman-contribution-graph.svg">
