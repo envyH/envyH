@@ -3,7 +3,7 @@
 # Hi there 👋
 
 <a href="https://envy.id.vn/">
-    <img src="https://img.shields.io/static/v1?label=Avatar258&message=Website&color=blue" />
+    <img src="https://img.shields.io/static/v1?label=Avatar259&message=Website&color=blue" />
 </a>
 <a href="https://github.com/envyH/avatar-client/releases/tag/v2.5.9.8.2">
     <img src="https://img.shields.io/static/v1?label=Release&message=v2.5.9&color=green" />
