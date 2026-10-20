@@ -5,7 +5,7 @@
 <a href="https://envy.id.vn/">
     <img src="https://img.shields.io/static/v1?label=Avatar259&message=Website&color=blue" />
 </a>
-<a href="https://github.com/envyH/avatar-client/releases/tag/v2.5.9.8.2">
+<a href="https://github.com/envyH/avatar-client/releases/">
     <img src="https://img.shields.io/static/v1?label=Release&message=v2.5.9&color=green" />
 </a>
 
@@ -20,8 +20,11 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats-envy.vercel.app/api?username=envyH&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats-envy.vercel.app/api?username=envyH&show_icons=true&theme=tokyonight" height="192" alt="stats graph"  />
+<!--
 <img src="https://github-readme-stats-envy.vercel.app/api/top-langs?username=envyH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+-->
+<img src="https://github-readme-stats-envy.vercel.app/api/top-langs?username=envyH&theme=tokyonight" height="192" alt="languages graph"  />
 
 </div>
 
