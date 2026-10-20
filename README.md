@@ -2,11 +2,11 @@
 
 # Hi there 👋
 
-<a href="https://envyh.github.io/avatar-site">
+<a href="https://envy.id.vn/">
     <img src="https://img.shields.io/static/v1?label=Avatar258&message=Website&color=blue" />
 </a>
-<a href="https://github.com/envyH/avatar-site/releases/tag/v.2.5.8">
-    <img src="https://img.shields.io/static/v1?label=Release&message=v2.5.8&color=green" />
+<a href="https://github.com/envyH/avatar-client/releases/tag/v2.5.9.8.2">
+    <img src="https://img.shields.io/static/v1?label=Release&message=v2.5.9&color=green" />
 </a>
 
 </div>
@@ -14,9 +14,9 @@
 
 ## 
 
-|                                           Avatar 258 Mod by Envy                                          |
+|                                           Avatar 259 Mod by Envy                                          |
 |:---------------------------------------------------------------------------------------------------------:|
-|![Screenshot](https://envyh.github.io/avatar-site/assets/thumbnail.png)|
+|![Screenshot](https://envyh.github.io/avatar-site-github/assets/thumbnail.png)|
 
 
 <div align="center">
